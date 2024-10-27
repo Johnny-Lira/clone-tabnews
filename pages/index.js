@@ -13,4 +13,4 @@ function teste() {
   console.log("Teste");
 }
 
-export default Home();
+export default Home;
